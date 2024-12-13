@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+}
+
+.flex-align-end {
+  align-items: end;
+}
+
+.flex-space-between {
+  justify-content: space-between;
+}
+
+.font-size-28 {
+  font-size: 28px;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.text-green-01 {
+  color: #1b9621;
+}
